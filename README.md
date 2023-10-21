@@ -35,7 +35,8 @@ Desejamos a você um bom começo e que você se divirta resolvendo o desafio.
 
 ## Entrega
 Para o desafio em questão, será preciso construir uma solução desde a concepção arquitetural do projeto até a entrega de uma release possibilite a utilização da solução em produção. 
- 
+
+Faça um fork deste repositório e desenvolva a solução proposta. Sempre que julgar necessário, faça commits e pushs para o seu repositório. Ao final, abra um pull request para este repositório. 
 
 
 ## GO TO: [Level 2](https://github.com/ProjetosNeuco/neucoon-level2-backend)
